@@ -1,0 +1,10 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/RouterChat/bin/python" />
+        <option value="/usr/bin/python2.7" />
+      </set>
+    </option>
+  </component>
+</application>
