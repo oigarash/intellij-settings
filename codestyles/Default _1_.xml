@@ -14,6 +14,9 @@
   <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MultiMarkdownCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
