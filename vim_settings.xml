@@ -2,14 +2,46 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" timestamp="1459689984075">
+        <mark key="'" line="5" column="10" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="58" column="5" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="43" column="28" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="34" column="19" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="33" column="38" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="26" column="18" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="25" column="13" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="23" column="13" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="22" column="13" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="14" column="20" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="13" column="5" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="6" column="16" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+      <jump line="5" column="10" filename="$USER_HOME$/Dropbox/Dev/python/BDB/EnhancedTopicSearch/template.html" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>class</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>class</last-search>
+      <last-offset />
+      <last-pattern>class</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>class</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
