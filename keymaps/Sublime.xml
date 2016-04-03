@@ -51,12 +51,13 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift f2" />
   </action>
+  <action id="GotoPreviousError" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
@@ -68,10 +69,16 @@
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
   <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="ParameterInfo" />
   <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ResizeToolWindowDown" />
@@ -88,6 +95,10 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="ctrl meta f2" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -97,7 +108,13 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
-  <action id="ToggleBookmark" />
+  <action id="Stop" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="meta alt f2" />
+  </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
