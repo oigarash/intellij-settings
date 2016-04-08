@@ -51,7 +51,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
-        <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
