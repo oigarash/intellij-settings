@@ -1,4 +1,7 @@
 <keymap version="1" name="Sublime" parent="Mac OS X 10.5+">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
@@ -8,6 +11,10 @@
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="DomCollectionControl.Edit">
     <keyboard-shortcut first-keystroke="f4" />
@@ -17,6 +24,9 @@
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorJoinLines" />
@@ -81,6 +91,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="RemoteHostView.CopyPaths" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
