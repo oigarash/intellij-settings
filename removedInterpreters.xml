@@ -1,0 +1,13 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/PyObj/bin/python" />
+        <option value="$USER_HOME$/bdb/bin/python" />
+        <option value="$USER_HOME$/openstack/bin/python" />
+        <option value="$USER_HOME$/virtualenv/RouterChat/bin/python" />
+        <option value="/usr/local/Cellar/python3/3.4.2_1/Frameworks/Python.framework/Versions/3.4/bin/python3.4" />
+      </set>
+    </option>
+  </component>
+</application>
