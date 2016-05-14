@@ -53,6 +53,7 @@
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="true" />
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -60,6 +61,7 @@
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -67,6 +69,7 @@
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
   </component>
