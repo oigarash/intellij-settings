@@ -52,6 +52,7 @@
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="/usr/local/bin/python" value="true" />
         <entry key="/usr/local/bin/python3" value="false" />
       </map>
@@ -60,6 +61,7 @@
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
         <entry key="/usr/local/bin/python3" value="false" />
       </map>
@@ -68,6 +70,7 @@
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
         <entry key="/usr/local/bin/python3" value="false" />
       </map>
