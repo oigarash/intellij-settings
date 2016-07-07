@@ -52,21 +52,27 @@
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="/usr/local/bin/python" value="true" />
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/bdb/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/bdblib/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="/usr/local/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
   </component>
