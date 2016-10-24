@@ -5837,7 +5837,7 @@
         <entry key="Pikabu_telegram_bot" value="" />
         <entry key="Pikzie" value="" />
         <entry key="Pil-Lite" value="" />
-        <entry key="Pillow" value="" />
+        <entry key="Pillow" value="3.4.2" />
         <entry key="Pillow-PIL" value="" />
         <entry key="Pillow-SIMD" value="" />
         <entry key="Pilot-Lib" value="" />
@@ -32966,7 +32966,7 @@
         <entry key="docutils_html5_writer" value="" />
         <entry key="docutils_react_docgen" value="" />
         <entry key="docutils_shell" value="" />
-        <entry key="docx" value="" />
+        <entry key="docx" value="0.2.4" />
         <entry key="docx-mailmerge" value="" />
         <entry key="docx-xslt" value="" />
         <entry key="docx2html" value="" />
@@ -49908,7 +49908,7 @@
         <entry key="lxctest" value="" />
         <entry key="lxd-nomad" value="" />
         <entry key="lxdapi" value="" />
-        <entry key="lxml" value="" />
+        <entry key="lxml" value="3.6.4" />
         <entry key="lxml-asserts" value="" />
         <entry key="lxml-cffi" value="" />
         <entry key="lxml-mate" value="" />
@@ -69095,7 +69095,7 @@
         <entry key="python-dockercloud" value="" />
         <entry key="python-docraptor" value="" />
         <entry key="python-documentcloud" value="" />
-        <entry key="python-docx" value="" />
+        <entry key="python-docx" value="0.8.6" />
         <entry key="python-docx-template" value="" />
         <entry key="python-dogeapi" value="" />
         <entry key="python-domains" value="" />
