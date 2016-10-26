@@ -5843,7 +5843,7 @@
         <entry key="Pikabu_telegram_bot" value="" />
         <entry key="Pikzie" value="" />
         <entry key="Pil-Lite" value="" />
-        <entry key="Pillow" value="" />
+        <entry key="Pillow" value="3.4.2" />
         <entry key="Pillow-PIL" value="" />
         <entry key="Pillow-SIMD" value="" />
         <entry key="Pilot-Lib" value="" />
@@ -12284,7 +12284,7 @@
         <entry key="applyaf" value="" />
         <entry key="appname" value="" />
         <entry key="appnexus-client" value="" />
-        <entry key="appnope" value="" />
+        <entry key="appnope" value="0.1.0" />
         <entry key="appoints" value="" />
         <entry key="appomatic" value="" />
         <entry key="appomatic_admin" value="" />
@@ -23659,7 +23659,7 @@
         <entry key="decorated" value="" />
         <entry key="decorating" value="" />
         <entry key="decorative" value="" />
-        <entry key="decorator" value="" />
+        <entry key="decorator" value="4.0.10" />
         <entry key="decorator-args" value="" />
         <entry key="decorators" value="" />
         <entry key="decoroute" value="" />
@@ -40290,7 +40290,7 @@
         <entry key="gnuplot-py" value="" />
         <entry key="gnuplot_kernel" value="" />
         <entry key="gnuplotlib" value="" />
-        <entry key="gnureadline" value="" />
+        <entry key="gnureadline" value="6.3.3" />
         <entry key="gnusocial" value="" />
         <entry key="gnusrss" value="" />
         <entry key="go" value="" />
@@ -44722,7 +44722,7 @@
         <entry key="ipystata" value="" />
         <entry key="ipytangle" value="" />
         <entry key="ipytest" value="" />
-        <entry key="ipython" value="" />
+        <entry key="ipython" value="5.1.0" />
         <entry key="ipython-animated-array" value="" />
         <entry key="ipython-autotime" value="" />
         <entry key="ipython-beautifulsoup" value="" />
@@ -49960,7 +49960,7 @@
         <entry key="lxctest" value="" />
         <entry key="lxd-nomad" value="" />
         <entry key="lxdapi" value="" />
-        <entry key="lxml" value="" />
+        <entry key="lxml" value="3.6.4" />
         <entry key="lxml-asserts" value="" />
         <entry key="lxml-cffi" value="" />
         <entry key="lxml-mate" value="" />
@@ -59990,7 +59990,7 @@
         <entry key="pexcard" value="" />
         <entry key="pexdoc" value="" />
         <entry key="pexif" value="" />
-        <entry key="pexpect" value="" />
+        <entry key="pexpect" value="4.2.1" />
         <entry key="pexpect-nm" value="" />
         <entry key="pexpect-serial" value="" />
         <entry key="pexpect-u" value="" />
@@ -60319,7 +60319,7 @@
         <entry key="picklejar" value="" />
         <entry key="picklemigrate" value="" />
         <entry key="pickler" value="" />
-        <entry key="pickleshare" value="" />
+        <entry key="pickleshare" value="0.7.4" />
         <entry key="picklesize" value="" />
         <entry key="picklr" value="" />
         <entry key="pickly" value="" />
@@ -62914,7 +62914,7 @@
         <entry key="ptwit" value="" />
         <entry key="ptwitter" value="" />
         <entry key="ptypes" value="" />
-        <entry key="ptyprocess" value="" />
+        <entry key="ptyprocess" value="0.5.1" />
         <entry key="ptysh" value="" />
         <entry key="pu" value="" />
         <entry key="pu_in_content" value="" />
@@ -69175,7 +69175,7 @@
         <entry key="python-dockercloud" value="" />
         <entry key="python-docraptor" value="" />
         <entry key="python-documentcloud" value="" />
-        <entry key="python-docx" value="" />
+        <entry key="python-docx" value="0.8.6" />
         <entry key="python-docx-template" value="" />
         <entry key="python-dogeapi" value="" />
         <entry key="python-domains" value="" />
@@ -77256,7 +77256,7 @@
         <entry key="simplefsabstraction" value="" />
         <entry key="simplefsm" value="" />
         <entry key="simplegcm" value="" />
-        <entry key="simplegeneric" value="" />
+        <entry key="simplegeneric" value="0.8.1" />
         <entry key="simplegeo" value="" />
         <entry key="simplegeo-places" value="" />
         <entry key="simplegeo-shared" value="" />
@@ -83997,7 +83997,7 @@
         <entry key="training" value="" />
         <entry key="trait_documenter" value="" />
         <entry key="traitar" value="" />
-        <entry key="traitlets" value="" />
+        <entry key="traitlets" value="4.3.1" />
         <entry key="traits" value="" />
         <entry key="traits-enaml" value="" />
         <entry key="traitscli" value="" />
