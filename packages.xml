@@ -66776,7 +66776,7 @@
         <entry key="pymonaco" value="" />
         <entry key="pymonerowallet" value="" />
         <entry key="pymonetdb" value="" />
-        <entry key="pymongo" value="" />
+        <entry key="pymongo" value="3.3.1" />
         <entry key="pymongo-amplidata" value="" />
         <entry key="pymongo-bongo" value="" />
         <entry key="pymongo-corset" value="" />
@@ -88156,7 +88156,7 @@
         <entry key="wcsaxes" value="" />
         <entry key="wcurve" value="" />
         <entry key="wcut" value="" />
-        <entry key="wcwidth" value="" />
+        <entry key="wcwidth" value="0.1.7" />
         <entry key="wd" value="" />
         <entry key="wdapi" value="" />
         <entry key="wdb" value="" />
@@ -88589,7 +88589,7 @@
         <entry key="whatthepatch" value="" />
         <entry key="whatthewhat" value="" />
         <entry key="whatwhen" value="" />
-        <entry key="wheel" value="" />
+        <entry key="wheel" value="0.30.0a0" />
         <entry key="wheel2conda" value="" />
         <entry key="wheelbarrow" value="" />
         <entry key="wheelbuilder" value="" />
