@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.cisco.com" />
           <option name="userName" value="oigarash" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-sjc.cisco.com" />
+          <option name="userName" value="oigarash" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
