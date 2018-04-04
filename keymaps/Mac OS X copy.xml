@@ -1,9 +1,21 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="MarkdownNavigator.ToggleSplitLayoutChange" />
   <action id="ParameterInfo" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
 </keymap>
